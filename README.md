@@ -14,12 +14,12 @@ The repository includes work related to:
 
 ## 📁 Repository Structure
 
-lab2/   → Jupyter notebooks for Lab 2
-lab3/   → Jupyter notebooks for Lab 3
-lab4/   → Jupyter notebooks for Lab 4
-lab5/   → Jupyter notebooks for Lab 5
-lab6/   → Jupyter notebooks for Lab 6
-lab7/   → Jupyter notebooks for Lab 7
+* **lab2/** → Arithmetic and algebra for cryptography
+* **lab3/** → Symmetric cryptography
+* **lab4/** → Public-key cryptography (RSA & Diffie–Hellman)
+* **lab5/** → Hash functions, MACs, and KDFs
+* **lab6/** → Post-quantum cryptography (lattice-based GGH)
+* **lab7/** → Homomorphic encryption
 
 > ⚠️ **Note:** Lab 1 is not included in this repository, as it consisted only of executing terminal commands rather than programming tasks.
 
