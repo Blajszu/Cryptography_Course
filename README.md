@@ -26,5 +26,3 @@ The repository includes work related to:
 ## 🛠️ How to Use
 
 Each `labX/` folder contains Jupyter notebooks (`.ipynb`). You can open them using Jupyter Notebook, JupyterLab, or VS Code with Jupyter support.
-
-Feel free to explore and learn! 🚀
